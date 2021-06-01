@@ -4,7 +4,7 @@ class O
 	{
 		test(10, 20);
 	}
-	static void test(int i, int j)
+	static void test(int i, int j)//argument or signature or parameter
 	{
 		System.out.println("from(test(int,int))");
 	}
