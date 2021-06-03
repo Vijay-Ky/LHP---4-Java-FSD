@@ -1,10 +1,11 @@
 class F
 {
-    static
+    static 
     {
-		i = 1;
+		System.out.println(i);//usage
+		i = 1;//reinitialization
     }
-    static int i = 2;
+    static int i;//declartion
     public static void main(String[]args)
     {
 		System.out.println(i);
