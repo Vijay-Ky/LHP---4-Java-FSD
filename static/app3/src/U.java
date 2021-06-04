@@ -43,6 +43,5 @@ class U
 		System.out.println("main:" + i);
 		i += 9;
 		j += i;
-		//System.out.println("main end:" + "i:" + i + "," + "j:" + j);
 	}
 }
